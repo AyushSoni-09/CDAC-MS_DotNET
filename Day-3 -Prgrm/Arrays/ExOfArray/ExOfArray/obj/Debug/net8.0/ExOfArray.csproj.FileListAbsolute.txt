@@ -1,0 +1,28 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.exe
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.runtimeconfig.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\refint\ExOfArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.genruntimeconfig.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ref\ExOfArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.exe
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.deps.json
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.runtimeconfig.json
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\bin\Debug\net8.0\ExOfArray.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.AssemblyInfoInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.AssemblyInfo.cs
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.csproj.CoreCompileInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\refint\ExOfArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ExOfArray.genruntimeconfig.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray\obj\Debug\net8.0\ref\ExOfArray.dll

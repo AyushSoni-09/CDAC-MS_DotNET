@@ -1,0 +1,14 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\bin\Debug\net8.0\ExOfPartialMethod.exe
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\bin\Debug\net8.0\ExOfPartialMethod.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\bin\Debug\net8.0\ExOfPartialMethod.runtimeconfig.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\bin\Debug\net8.0\ExOfPartialMethod.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\bin\Debug\net8.0\ExOfPartialMethod.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ExOfPartialMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ExOfPartialMethod.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ExOfPartialMethod.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ExOfPartialMethod.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ExOfPartialMethod.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\refint\ExOfPartialMethod.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ExOfPartialMethod.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ExOfPartialMethod.genruntimeconfig.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfPartialMethod\ExOfPartialMethod\obj\Debug\net8.0\ref\ExOfPartialMethod.dll

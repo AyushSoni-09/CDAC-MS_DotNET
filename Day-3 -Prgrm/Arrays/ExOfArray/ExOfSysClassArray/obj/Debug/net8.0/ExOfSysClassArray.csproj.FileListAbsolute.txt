@@ -1,0 +1,28 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.exe
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.runtimeconfig.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\refint\ExOfSysClassArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.genruntimeconfig.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ref\ExOfSysClassArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.exe
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.deps.json
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.runtimeconfig.json
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\bin\Debug\net8.0\ExOfSysClassArray.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.AssemblyInfoInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.AssemblyInfo.cs
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.csproj.CoreCompileInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\refint\ExOfSysClassArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ExOfSysClassArray.genruntimeconfig.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfSysClassArray\obj\Debug\net8.0\ref\ExOfSysClassArray.dll

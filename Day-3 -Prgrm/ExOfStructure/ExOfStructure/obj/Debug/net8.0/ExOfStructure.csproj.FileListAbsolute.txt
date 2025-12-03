@@ -1,0 +1,36 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.exe
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.runtimeconfig.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\refint\ExOfStructure.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.genruntimeconfig.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ref\ExOfStructure.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ClassLibrary1.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.csproj.AssemblyReference.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStru.194CD7AF.Up2Date
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.exe
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.deps.json
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.runtimeconfig.json
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.dll
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ExOfStructure.pdb
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ClassLibrary1.dll
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.csproj.AssemblyReference.cache
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.AssemblyInfoInputs.cache
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.AssemblyInfo.cs
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.csproj.CoreCompileInputs.cache
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStru.194CD7AF.Up2Date
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.dll
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\refint\ExOfStructure.dll
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.pdb
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ExOfStructure.genruntimeconfig.cache
+D:\2025-C#-Examples\ExOfStructure\ExOfStructure\obj\Debug\net8.0\ref\ExOfStructure.dll

@@ -1,0 +1,28 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.exe
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.runtimeconfig.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\refint\ExOfArray-ForLoop.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.genruntimeconfig.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ref\ExOfArray-ForLoop.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.exe
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.deps.json
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.runtimeconfig.json
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\bin\Debug\net8.0\ExOfArray-ForLoop.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.AssemblyInfoInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.AssemblyInfo.cs
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.csproj.CoreCompileInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\refint\ExOfArray-ForLoop.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ExOfArray-ForLoop.genruntimeconfig.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\ExOfArray-ForLoop\obj\Debug\net8.0\ref\ExOfArray-ForLoop.dll
