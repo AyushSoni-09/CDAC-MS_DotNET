@@ -1,0 +1,28 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.exe
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.runtimeconfig.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\refint\JaggeArray.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.genruntimeconfig.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\ref\JaggeArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.exe
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.deps.json
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.runtimeconfig.json
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\bin\Debug\net8.0\JaggeArray.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.AssemblyInfoInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.AssemblyInfo.cs
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.csproj.CoreCompileInputs.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\refint\JaggeArray.dll
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.pdb
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\JaggeArray.genruntimeconfig.cache
+D:\2025-C#-Examples\Arrays\ExOfArray\JaggeArray\obj\Debug\net8.0\ref\JaggeArray.dll

@@ -1,0 +1,22 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\2025-C#-Examples\ExOfStructure\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

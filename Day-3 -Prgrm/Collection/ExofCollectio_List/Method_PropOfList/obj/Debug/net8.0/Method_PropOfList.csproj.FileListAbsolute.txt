@@ -1,0 +1,14 @@
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\bin\Debug\net8.0\Method_PropOfList.exe
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\bin\Debug\net8.0\Method_PropOfList.deps.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\bin\Debug\net8.0\Method_PropOfList.runtimeconfig.json
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\bin\Debug\net8.0\Method_PropOfList.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\bin\Debug\net8.0\Method_PropOfList.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\Method_PropOfList.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\Method_PropOfList.AssemblyInfoInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\Method_PropOfList.AssemblyInfo.cs
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\Method_PropOfList.csproj.CoreCompileInputs.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\Method_PropOfList.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\refint\Method_PropOfList.dll
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\Method_PropOfList.pdb
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\Method_PropOfList.genruntimeconfig.cache
+D:\.NET_Classess -Mar-2025\2025-C#-Examples\Collection\ExofCollectio_List\Method_PropOfList\obj\Debug\net8.0\ref\Method_PropOfList.dll

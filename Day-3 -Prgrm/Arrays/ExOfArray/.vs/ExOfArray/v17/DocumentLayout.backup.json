@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2025-C#-Examples\\Arrays\\ExOfArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52415ADE-9BA4-41C7-9D1D-D0216E63414D}|ExOfSysClassArray\\ExOfSysClassArray.csproj|d:\\2025-c#-examples\\arrays\\exofarray\\exofsysclassarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52415ADE-9BA4-41C7-9D1D-D0216E63414D}|ExOfSysClassArray\\ExOfSysClassArray.csproj|solutionrelative:exofsysclassarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B25E79-BACE-46A0-80C8-3BF5A18C386B}|JaggeArray\\JaggeArray.csproj|d:\\2025-c#-examples\\arrays\\exofarray\\jaggearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B25E79-BACE-46A0-80C8-3BF5A18C386B}|JaggeArray\\JaggeArray.csproj|solutionrelative:jaggearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5574CC8B-3CD8-4DD6-9473-705D6ACC6C1B}|ExOfMutliDimArray\\ExOfMutliDimArray.csproj|d:\\2025-c#-examples\\arrays\\exofarray\\exofmutlidimarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574CC8B-3CD8-4DD6-9473-705D6ACC6C1B}|ExOfMutliDimArray\\ExOfMutliDimArray.csproj|solutionrelative:exofmutlidimarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025-C#-Examples\\Arrays\\ExOfArray\\ExOfSysClassArray\\Program.cs",
+              "RelativeDocumentMoniker": "ExOfSysClassArray\\Program.cs",
+              "ToolTip": "D:\\2025-C#-Examples\\Arrays\\ExOfArray\\ExOfSysClassArray\\Program.cs*",
+              "RelativeToolTip": "ExOfSysClassArray\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:36:30.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025-C#-Examples\\Arrays\\ExOfArray\\JaggeArray\\Program.cs",
+              "RelativeDocumentMoniker": "JaggeArray\\Program.cs",
+              "ToolTip": "D:\\2025-C#-Examples\\Arrays\\ExOfArray\\JaggeArray\\Program.cs",
+              "RelativeToolTip": "JaggeArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:34:11.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025-C#-Examples\\Arrays\\ExOfArray\\ExOfMutliDimArray\\Program.cs",
+              "RelativeDocumentMoniker": "ExOfMutliDimArray\\Program.cs",
+              "ToolTip": "D:\\2025-C#-Examples\\Arrays\\ExOfArray\\ExOfMutliDimArray\\Program.cs",
+              "RelativeToolTip": "ExOfMutliDimArray\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:33:15.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
